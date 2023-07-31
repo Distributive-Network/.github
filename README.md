@@ -1,6 +1,6 @@
 # .github
 
-Contains the org's profile `README.md` along with default community health
-files. See
-[GitHub's docs](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
-for more information.
+_Community health files for the @Distributive-Network organization._
+
+For more information, please see the article on
+[creating a default community health file for your organization](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
