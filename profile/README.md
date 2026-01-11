@@ -12,7 +12,6 @@
 -->
 
 We're [Distributive](https://distributive.network/), the creator of the
-Distributive Compute Protocol (DCP). A web standard for matching supply and
-demand for compute to enable everyone, from academia to industry, to access
-easy, affordable and abundant computing resources to power their AI, data
-analytics, and research computing solutions.
+Distributive Compute Platform (DCP), a distributed computing and payments 
+framework built on modern web technologies to create secure and scalable 
+CPU and GPU marketplaces.
